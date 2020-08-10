@@ -1,0 +1,31 @@
+.logo {
+    font-size: 35px;
+
+}
+
+.element_navbar{
+    margin-left: auto;
+}
+
+.main_image{
+    height: 100%;
+    min-height: 500px;
+}
+
+.comment{
+    text-align: center;
+    color: #fff;
+    background-color: #000;
+    font-size: 30px;
+}
+
+.marque{
+    color: red;
+}
+
+
+.photo{
+    margin-top: 180px;
+    text-align: center;
+}
+
