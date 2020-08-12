@@ -109,6 +109,10 @@ footer p {
     padding: 0 5px;
 }
 
+.commentaire p{
+    text-align: justify;
+}
+
 
 
 
