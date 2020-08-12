@@ -82,20 +82,11 @@
 footer{
     margin-top: 10px;
     width: 100%;
-    height: 100px;
+    height: 150px;
     background-color: #CECEF6;
 }
 
 
-.contact{
-    float: left;
-    padding-left: 10px;
-}
-
-.prix{
-    float: right;
-    padding-right: 10px;
-}
 
 .pied p{
     padding: 2 10px !important;
@@ -112,6 +103,10 @@ footer p {
 
 .text_livr {
     margin-bottom: 0;
+}
+
+.commentaire{
+    padding: 0 5px;
 }
 
 
