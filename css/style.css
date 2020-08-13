@@ -6,6 +6,7 @@
 
 .logo img {
     max-width: 30px;
+    vertical-align: top !important;
 }
 
 .main_barr
